@@ -1,16 +1,9 @@
-### Hi there 👋
-
-<!--
-**ELTEGANI/ELTEGANI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+### Hi All 👋 Wellcome
 - 🔭 I’m currently working on Nano Technology
-- 🌱 I’m currently learning New Techs
+- 🌱 I’m currently learning Microservices with Node
 - 👯 I’m looking to collaborate on Android Projects
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about Android
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about Android,node and reactjs
+- 📫 How to reach me:tiganimoh@gmail.com
+- 😄 Pronouns: HE/HIS
+- ⚡ Fun fact:make it done and go have fun :)
+
