@@ -1,6 +1,6 @@
 ### Hi All 👋 Wellcome
 - 🔭 I’m currently working on Nano Technology
-- 🌱 I’m currently learning Microservices with Node
+- 🌱 I’m currently learning Microservices with Node & Reactjs
 - 👯 I’m looking to collaborate on Android Projects
 - 💬 Ask me about Android,node and reactjs
 - 📫 How to reach me:tiganimoh@gmail.com
