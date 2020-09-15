@@ -4,6 +4,6 @@
 - 👯 I’m looking to collaborate on Android Projects
 - 💬 Ask me about Android,node and reactjs
 - 📫 How to reach me:tiganimoh@gmail.com
-- 😄 Pronouns: HE/HIS
+- 😄 Pronouns: HE/HIM
 - ⚡ Fun fact:make it done and go have fun :)
 
