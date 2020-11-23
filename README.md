@@ -1,5 +1,5 @@
 ### Hi All 👋 Wellcome
-- 🔭 I'm currently working as a Software Developer(Android uisng kotlin and BackEnd uisng Nodejs) on Nano Technology Co. Ltd
+- 🔭 I'm Application Development Engineer @Interface Co.Ltd
 - 🌱 I’m learning any topics related to android and software development.
 - 👯 I’m looking to collaborate on Android Projects
 - 💬 Ask me about Android,node and reactjs
