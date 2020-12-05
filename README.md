@@ -7,5 +7,5 @@
 - 😄 Pronouns: HE/HIM
 - ⚡ Fun fact:make it done and go have fun :)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ELTEGANI&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ELTEGANI&count_private=true&show_icons=true&card_width=400)](https://github.com/anuraghazra/github-readme-stats)
 
