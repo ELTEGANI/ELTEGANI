@@ -1,7 +1,6 @@
 ### Hi All 👋 Wellcome
 - 🔭 I'm Application Development Engineer @Interface Co.Ltd
 - 🌱 I’m learning any topics related to android and software development.
-- 👯 I’m looking to collaborate on Android Projects
 - 📫 How to reach me:tiganimoh@gmail.com
 - 😄 Pronouns: HE/HIM
 - ⚡ Fun fact:make it done and go have fun :)
