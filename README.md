@@ -17,7 +17,7 @@ Android Development using kotlin,MVVM,architecture components,Material Design,je
 
 #### Contributer 
 
-[Instant-Weather](https://github.com/mayokunthefirst/Instant-Weather)
+[Instant-Weather](https://github.com/OMIsie11/SpaceXFollower)
 
 [SpaceXFollower](https://github.com/ELTEGANI/SpaceXFollower)
 
