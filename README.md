@@ -11,7 +11,7 @@
 #### My Skills: 
 Android Development using kotlin,MVVM,architecture components,Material Design,jetpack,Espresso,junit,jest.js,kubernetes,docker and Microservices with Node & Reactjs.
 
-#### My Projects:
+#### My Android Apps:
 [Expense Monitor](https://play.google.com/store/apps/details?id=com.monitoryourexpenses.expenses)
 
 [Booking Chalets](https://play.google.com/store/apps/details?id=com.samemtech.bookingchalets)
