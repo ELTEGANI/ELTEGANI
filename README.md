@@ -12,7 +12,7 @@
 Android Development using kotlin,MVVM,architecture components,Material Design,jetpack,Espresso,junit,jest.js,kubernetes,docker and Microservices with Node & Reactjs.
 
 #### My Android Apps:
-[Expense Monitor](https://play.google.com/store/apps/details?id=com.monitoryourexpenses.expenses)
+[Expense Monitor](https://play.google.com/store/apps/details?id=com.monitoryourexpenses.expenses)(Open Source)
 
 [Booking Chalets](https://play.google.com/store/apps/details?id=com.samemtech.bookingchalets)
 
@@ -20,7 +20,7 @@ Android Development using kotlin,MVVM,architecture components,Material Design,je
 
 [iLink App](https://play.google.com/store/apps/details?id=com.nano_tech.i_link)
 
-#### My Profiles:
+#### Social Links :
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ELTEGANI/)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/9130109/el-tegani-mohamed-hammad-gabir?tab=profile)  
 
 #### Contributer 
@@ -32,3 +32,5 @@ Android Development using kotlin,MVVM,architecture components,Material Design,je
 [NYTimes-App](https://github.com/TheCodeMonks/NYTimes-App)
 
 [Travel Guide](https://github.com/zero-to-mastery/travel-guide)
+
+[android-development-best-practices](https://github.com/niharika2810/android-development-best-practices)
