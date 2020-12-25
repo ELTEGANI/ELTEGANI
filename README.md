@@ -8,8 +8,10 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ELTEGANI&count_private=true&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
+
 #### My Skills: 
-Android Development using kotlin,MVVM,architecture components,Material Design,jetpack,Espresso,junit,jest.js,kubernetes,docker and Microservices with Node & Reactjs.
+Android Development using kotlin,MVVM,architecture components,Material Design,jetpack,Espresso and junit,
+Microservices with Node & Reactjs,jest.js,kubernetes,docker
 
 #### My Android Apps:
 [Expense Monitor](https://play.google.com/store/apps/details?id=com.monitoryourexpenses.expenses)(Open Source)
