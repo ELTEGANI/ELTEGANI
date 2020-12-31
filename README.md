@@ -1,5 +1,5 @@
 ### Hi All 👋 Wellcome
-- 🔭 I'm Application Development Engineer @Interface Co.Ltd
+- 🔭 I'm Android Developer @Interface Co.Ltd
 - 🌱 I’m learning any topics related to android and software development.
 - 📫 How to reach me:tiganimoh@gmail.com
 - 😄 Pronouns: HE/HIM
