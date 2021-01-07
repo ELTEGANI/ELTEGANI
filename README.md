@@ -10,7 +10,7 @@
 
 
 #### My Skills: 
-Android Development using kotlin,MVVM,architecture components,Material Design,jetpack,Espresso and junit.
+Android Development using kotlin,MVVM,dagger hilt,architecture components,Material Design,jetpack,Espresso and junit.
 
 Microservices with Node & Reactjs,jest.js,kubernetes,docker
 
