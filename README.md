@@ -12,9 +12,9 @@
 #### My Skills: 
 Android Development using kotlin,MVVM,dagger hilt,architecture components,Material Design,jetpack,Espresso,junit and [TDD](https://github.com/ELTEGANI/Android-ShoppingList-App)
 
-[Microservices with Node & Reactjs,jest.js,kubernetes,docker](https://github.com/ELTEGANI/Ticketing) 
+Additional skills in: [Microservices with Node & Reactjs,jest.js,kubernetes,docker](https://github.com/ELTEGANI/Ticketing) 
 
-[fastlane](https://fastlane.tools/),GitHub Actions
+[fastlane](https://fastlane.tools/),[appcenter](https://appcenter.ms/) and GitHub Actions
 
 #### My Android Apps:
 [Expense Monitor](https://play.google.com/store/apps/details?id=com.monitoryourexpenses.expenses)(Open Source)
