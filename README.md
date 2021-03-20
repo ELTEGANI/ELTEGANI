@@ -1,6 +1,6 @@
 ### Hi All 👋 Wellcome
 - 🔭 I'm Android Developer @Interface Co.Ltd
-- 🌱 I’m learning any topics related to android and software development.
+- 🌱 I’m learning android jetpack compose
 - 📫 How to reach me:tiganimoh@gmail.com
 - 😄 Pronouns: HE/HIM
 - ⚡ Fun fact:make it done and go have fun :)
