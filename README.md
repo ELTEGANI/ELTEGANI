@@ -1,5 +1,5 @@
 ### Hi All 👋 Wellcome
-- 🔭 I'm Android Developer @Interface Co.Ltd
+- 🔭 I'm Android Developer @Interface FZE
 - 🌱 I’m learning android jetpack compose
 - 📫 How to reach me:tiganimoh@gmail.com
 - 😄 Pronouns: HE/HIM
