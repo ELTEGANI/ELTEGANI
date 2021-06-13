@@ -1,6 +1,6 @@
 ### Hi All 👋 Wellcome
 - 🔭 I'm Android Developer @Interface FZE
-- 🌱 I’m learning android jetpack compose
+- 🌱 I’m learning Flutter
 - 📫 How to reach me:tiganimoh@gmail.com
 - 😄 Pronouns: HE/HIM
 - ⚡ Fun fact:make it done and go have fun :)
