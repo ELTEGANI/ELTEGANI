@@ -10,9 +10,7 @@
 
 
 #### My Skills: 
-Android Development using kotlin,MVVM,dagger hilt,architecture components,Material Design,jetpack,Espresso,junit and [TDD](https://github.com/ELTEGANI/Android-ShoppingList-App)
-
-Additional knowledge in: [Microservices with Node & Reactjs,jest.js,kubernetes,docker](https://github.com/ELTEGANI/Ticketing) 
+Android Development using kotlin,MVVM,dagger hilt,architecture components,Material Design,jetpack,Espresso,junit and TDD.
 
 [fastlane](https://fastlane.tools/),[appcenter](https://appcenter.ms/) and GitHub Actions
 
