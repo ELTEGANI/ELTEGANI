@@ -12,7 +12,7 @@
 #### My Skills: 
 Android Development using kotlin,MVVM,dagger hilt,architecture components,Material Design,jetpack,Espresso,junit and TDD.
 
-#### CICD
+#### CICD:
 [fastlane](https://fastlane.tools/),
 
 [appcenter](https://appcenter.ms/) 
