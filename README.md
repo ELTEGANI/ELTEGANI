@@ -12,7 +12,11 @@
 #### My Skills: 
 Android Development using kotlin,MVVM,dagger hilt,architecture components,Material Design,jetpack,Espresso,junit and TDD.
 
-[fastlane](https://fastlane.tools/),[appcenter](https://appcenter.ms/) and GitHub Actions
+#### CICD
+[fastlane](https://fastlane.tools/),
+
+[appcenter](https://appcenter.ms/) 
+
 
 #### My Android Apps:
 [Expense Monitor](https://play.google.com/store/apps/details?id=com.monitoryourexpenses.expenses)(Open Source)
