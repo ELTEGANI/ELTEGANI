@@ -9,8 +9,8 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ELTEGANI&count_private=true&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
 
-#### My Skills: 
-Android Development using kotlin,MVVM,dagger hilt,architecture components,Material Design,jetpack,Espresso,junit and TDD.
+#### Skills: 
+java,kotlin,MVVM,dagger hilt,architecture components,Material Design,jetpack,Espresso,junit and TDD.additional skills in Nodejs & Microservices
 
 #### CICD:
 [fastlane](https://fastlane.tools/)
