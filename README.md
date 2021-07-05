@@ -34,7 +34,7 @@ java,kotlin,MVVM,dagger hilt,architecture components,Material Design,jetpack,Esp
 
 #### Contributer 
 
-[Instant-Weather](https://github.com/mayokunthefirst/Instant-Weather)
+[Instant-Weather](https://github.com/mayokunadeniyi/Instant-Weather/pull/29)
 
 [SpaceXFollower](https://github.com/OMIsie11/SpaceXFollower)
 
