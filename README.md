@@ -1,5 +1,5 @@
 ### Hi All 👋 Wellcome
-- 🔭 I'm Android Developer @Interface FZE
+- 🔭 I'm Android Developer
 - 🌱 I’m learning Flutter
 - 📫 How to reach me:tiganimoh@gmail.com
 - 😄 Pronouns: HE/HIM
