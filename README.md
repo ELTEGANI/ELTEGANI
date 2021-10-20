@@ -34,3 +34,8 @@
 
 [ICard App](https://play.google.com/store/apps/details?id=com.madret.net.IC)
 
+[Flutter-Shop-App](https://github.com/ELTEGANI/Flutter-Shop-App)
+  
+[Flutter-Meal-App](https://github.com/ELTEGANI/Flutter-Meal-App)  
+  
+
