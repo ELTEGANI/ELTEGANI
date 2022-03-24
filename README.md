@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm ELTEGANI</h1>
 
-- 🔭 I'm Software Developer @Tektronix Technologies (Aplication Engineer @Expo2020 via Tektronix Technologies)
+- 🔭 I'm Software Developer @Tektronix Technologies (Application Engineer @Expo2020 via Tektronix Technologies)
 - 🌱 I’m learning Jetpack Compose
 - 📫 How to reach me:tiganimoh@gmail.com
 - 😄 Pronouns: HE/HIM
