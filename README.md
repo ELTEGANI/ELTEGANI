@@ -14,10 +14,15 @@
 </p>
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Mobile Development:</h3>
 </a> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a><a href="https://kotlinlang.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
-<a href="https://flutter.dev/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a><a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a><a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a><a href="https://nextjs.org/" target="_blank"> <img src="https://upload.vectorlogo.zone/logos/nextjs/images/60eff509-53dd-4280-92e7-7318fa02e934.svg" alt="Nextjs" width="40" height="40"/>
-</a><a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/><a href="https://appcenter.ms/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/appcenterms/appcenterms-tile.svg" alt="appcenter" width="40" height="40"/></a><a href="https://play.google.com/store" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_play/google_play-icon.svg" alt="google_play" width="40" height="40"/></a>
+<a href="https://flutter.dev/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
+  
+<h3 align="left">Web FrameWork Development:</h3>
+  <img src="https://upload.vectorlogo.zone/logos/nextjs/images/60eff509-53dd-4280-92e7-7318fa02e934.svg" alt="Nextjs" width="40" height="40"/></a>
+
+<h3 align="left">Other development tool:</h3>
+</a><a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a><a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a><a href="https://nextjs.org/" target="_blank"> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/><a href="https://appcenter.ms/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/appcenterms/appcenterms-tile.svg" alt="appcenter" width="40" height="40"/></a><a href="https://play.google.com/store" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_play/google_play-icon.svg" alt="google_play" width="40" height="40"/></a>
 <br>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ELTEGANI&count_private=true&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
