@@ -51,6 +51,6 @@
   
 [Flutter E-commerce App (IOS & Android)](https://github.com/ELTEGANI/E-Commerce-Flutter-App-IOS-Android)  
   
-#### open source Contributor @[NYTimes-App](https://github.com/TheCodeMonks/NYTimes-App)  
+#### open source Contributor @[NYTimes-App](https://github.com/TheCodeMonks/NYTimes-App),[Instant-Weather](https://github.com/mayokunadeniyi/Instant-Weather/pull/27),[SpaceXFollower](https://github.com/OMIsie11/SpaceXFollower)  
   
 
