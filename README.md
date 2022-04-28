@@ -5,7 +5,7 @@
   - [Instant-Weather](https://github.com/mayokunadeniyi/Instant-Weather/pull/27)
   - [SpaceXFollower](https://github.com/OMIsie11/SpaceXFollower)
   - [android-development-best-practices](https://github.com/niharika2810/android-development-best-practices)
-  - [travel-guide)](https://github.com/zero-to-mastery/travel-guide) 
+  - [travel-guide](https://github.com/zero-to-mastery/travel-guide) 
 
 - 🌱 I’m learning Jetpack Compose
 - 📫 How to reach me:tiganimoh@gmail.com
