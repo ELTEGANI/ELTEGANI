@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm ELTEGANI</h1>
 
-- 🔭 I'm Mobile Applications Developer with a passion for building apps for native android and flutter(IOS & Android) apps. I contibuted @:-
+- 🔭 I'm Mobile Applications Developer with a passion for building apps for native android and flutter(IOS & Android) apps. I contributed @:-
   - [NYTimes-App](https://github.com/TheCodeMonks/NYTimes-App)
   - [Instant-Weather](https://github.com/mayokunadeniyi/Instant-Weather/pull/27)
   - [SpaceXFollower](https://github.com/OMIsie11/SpaceXFollower)
