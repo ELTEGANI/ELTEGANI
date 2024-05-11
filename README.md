@@ -32,16 +32,3 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ELTEGANI&count_private=true&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
-#### Android Apps:
-##### participated in the development of UVA(Customer&Driver)    
-[Expense Monitor](https://play.google.com/store/apps/details?id=com.monitoryourexpenses.expenses)(Open Source)
-
-[iLink App](https://play.google.com/store/apps/details?id=com.nano_tech.i_link)
-
-[ICard App](https://play.google.com/store/apps/details?id=com.madret.net.IC)
-
-[Flutter-Shop-App](https://github.com/ELTEGANI/Flutter-Shop-App)
-  
-[Flutter-Meal-App](https://github.com/ELTEGANI/Flutter-Meal-App)  
-  
-[Flutter E-commerce App (IOS & Android)](https://github.com/ELTEGANI/E-Commerce-Flutter-App-IOS-Android)  
